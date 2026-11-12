@@ -1,0 +1,6 @@
+{
+  "name": "Road Runner - Smart Ride & Commute Platform",
+  "description": "Interactive mobile and web interface for Road Runner Singapore ride aggregator, commute companion, and dynamic Business Model Canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
